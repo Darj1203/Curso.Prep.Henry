@@ -1,0 +1,11 @@
+* Variables
+	Son todos aquellas en las que guardamos información, Cómo una caja en donde guardamos un color o una palabra o un numero. 
+* Strings
+	Son un hilo de caracteres (una letra tras otro como en posiciones), que conforman palabras entendibles en una computador
+* Funciones (argumentos, `return`)
+	Son formas de mantener el codigo más limpio, un elemento del codigo que simplifica todos los trabajos, en el podemos retornar valores como en las variables y pedir unos argumentos.
+* Declaraciones `if`
+	Son formas de mantener el codigo más logico, las podemos usar como condicionales asi si una cosa es verdadera se cumple el if se hace el codigo y retorna un valor, solo puede retornar una vez (if, else if, else)
+* Valores booleanos (`true`, `false`)
+	Son importantes en programación para saber si se realiza algo o no, es como el 0 y el 1 en numeros binarios
+
